@@ -1,2 +1,2 @@
 # grid-master
-css grid with emoji
+https://hyejuchoi.github.io/grid-master
