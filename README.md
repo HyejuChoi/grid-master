@@ -1,2 +1,2 @@
-# grid-master
-https://hyejuchoi.github.io/grid-master
+# matching-game
+https://hyejuchoi.github.io/matching-game/
